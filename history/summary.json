@@ -2,7 +2,7 @@
   {
     "name": "Google",
     "url": "https://www.google.com",
-    "icon": "https://favicons.githubusercontent.com/www.google.com",
+    "icon": "https://www.google.com/favicon.ico",
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 54,
-    "timeDay": 54,
-    "timeWeek": 54,
-    "timeMonth": 54,
-    "timeYear": 54,
+    "time": 62,
+    "timeDay": 62,
+    "timeWeek": 62,
+    "timeMonth": 62,
+    "timeYear": 62,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2698,
-    "timeDay": 2698,
-    "timeWeek": 2698,
-    "timeMonth": 2698,
-    "timeYear": 2698,
+    "time": 2501,
+    "timeDay": 2501,
+    "timeWeek": 2501,
+    "timeMonth": 2501,
+    "timeYear": 2501,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 220,
-    "timeDay": 220,
-    "timeWeek": 220,
-    "timeMonth": 220,
-    "timeYear": 220,
+    "time": 185,
+    "timeDay": 185,
+    "timeWeek": 185,
+    "timeMonth": 185,
+    "timeYear": 185,
     "dailyMinutesDown": {}
   }
 ]
