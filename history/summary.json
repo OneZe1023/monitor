@@ -22,7 +22,7 @@
     "url": "https://www.baidu.com",
     "icon": "https://favicons.githubusercontent.com/www.baidu.com",
     "slug": "baidu",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 1934,
     "timeMonth": 1934,
     "timeYear": 1934,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-09": 0
+    }
   },
   {
     "name": "Wikipedia",
