@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 87,
-    "timeDay": 83,
-    "timeWeek": 105,
-    "timeMonth": 87,
-    "timeYear": 87,
+    "time": 88,
+    "timeDay": 97,
+    "timeWeek": 106,
+    "timeMonth": 88,
+    "timeYear": 88,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://favicons.githubusercontent.com/www.baidu.com",
     "slug": "baidu",
     "status": "up",
-    "uptime": "99.41%",
+    "uptime": "99.47%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.34%",
-    "uptimeMonth": "99.41%",
-    "uptimeYear": "99.41%",
-    "time": 2176,
-    "timeDay": 1980,
-    "timeWeek": 2102,
-    "timeMonth": 2176,
-    "timeYear": 2176,
+    "uptimeMonth": "99.47%",
+    "uptimeYear": "99.47%",
+    "time": 2131,
+    "timeDay": 1504,
+    "timeWeek": 2110,
+    "timeMonth": 2131,
+    "timeYear": 2131,
     "dailyMinutesDown": {
       "2022-09-09": 67
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 194,
-    "timeDay": 167,
-    "timeWeek": 199,
-    "timeMonth": 194,
-    "timeYear": 194,
+    "time": 186,
+    "timeDay": 91,
+    "timeWeek": 205,
+    "timeMonth": 186,
+    "timeYear": 186,
     "dailyMinutesDown": {}
   }
 ]
