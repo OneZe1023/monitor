@@ -22,18 +22,19 @@
     "url": "https://www.baidu.com",
     "icon": "https://favicons.githubusercontent.com/www.baidu.com",
     "slug": "baidu",
-    "status": "up",
-    "uptime": "99.48%",
+    "status": "down",
+    "uptime": "99.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.70%",
-    "uptimeMonth": "99.48%",
-    "uptimeYear": "99.48%",
+    "uptimeMonth": "99.49%",
+    "uptimeYear": "99.49%",
     "time": 2507,
     "timeDay": 3796,
     "timeWeek": 2899,
     "timeMonth": 2507,
     "timeYear": 2507,
     "dailyMinutesDown": {
+      "2022-09-18": 0,
       "2022-09-15": 30,
       "2022-09-09": 67
     }
