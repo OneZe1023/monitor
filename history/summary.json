@@ -23,15 +23,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.baidu.com.ico",
     "slug": "baidu",
     "status": "up",
-    "uptime": "99.56%",
+    "uptime": "99.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.59%",
-    "uptimeYear": "99.56%",
+    "uptimeYear": "99.57%",
     "time": 2664,
     "timeDay": 2988,
     "timeWeek": 3624,
-    "timeMonth": 3115,
+    "timeMonth": 3038,
     "timeYear": 2664,
     "dailyMinutesDown": {
       "2022-10-08": 28,
@@ -50,7 +50,7 @@
     "url": "https://en.wikipedia.org",
     "icon": "https://icons.duckduckgo.com/ip3/en.wikipedia.org.ico",
     "slug": "wikipedia",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -61,6 +61,8 @@
     "timeWeek": 356,
     "timeMonth": 231,
     "timeYear": 208,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-10-30": 0
+    }
   }
 ]
