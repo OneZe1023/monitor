@@ -1,7 +1,7 @@
 url: https://www.baidu.com
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-11-21T07:55:38.105Z
+status: up
+code: 200
+responseTime: 1965
+lastUpdated: 2023-11-21T08:16:57.295Z
 startTime: 2022-09-05T05:51:21.000Z
 generator: Upptime <https://github.com/upptime/upptime>
