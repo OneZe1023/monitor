@@ -5,18 +5,19 @@
     "icon": "https://www.google.com/favicon.ico",
     "slug": "llm",
     "status": "down",
-    "uptime": "71.50%",
-    "uptimeDay": "71.50%",
-    "uptimeWeek": "71.50%",
-    "uptimeMonth": "71.50%",
-    "uptimeYear": "71.50%",
+    "uptime": "0.04%",
+    "uptimeDay": "0.04%",
+    "uptimeWeek": "0.04%",
+    "uptimeMonth": "0.04%",
+    "uptimeYear": "0.04%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-11": 0
+      "2025-03-12": 51,
+      "2025-03-11": 1363
     }
   },
   {
@@ -31,10 +32,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 2216,
-    "timeDay": 2650,
-    "timeWeek": 2337,
-    "timeMonth": 2363,
-    "timeYear": 2282,
+    "timeDay": 1843,
+    "timeWeek": 2338,
+    "timeMonth": 2355,
+    "timeYear": 2281,
     "dailyMinutesDown": {
       "2024-07-12": 184,
       "2024-07-11": 68,
@@ -54,9 +55,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 217,
-    "timeDay": 53,
-    "timeWeek": 214,
-    "timeMonth": 169,
+    "timeDay": 46,
+    "timeWeek": 215,
+    "timeMonth": 162,
     "timeYear": 216,
     "dailyMinutesDown": {}
   }
