@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-15": 51,
+      "2025-03-16": 56,
+      "2025-03-15": 1440,
       "2025-03-14": 1440,
       "2025-03-13": 1440,
       "2025-03-12": 1440,
@@ -34,10 +35,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 2221,
-    "timeDay": 2314,
-    "timeWeek": 2421,
-    "timeMonth": 2363,
+    "time": 2222,
+    "timeDay": 2562,
+    "timeWeek": 2486,
+    "timeMonth": 2380,
     "timeYear": 2282,
     "dailyMinutesDown": {
       "2024-07-12": 184,
@@ -58,10 +59,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 216,
-    "timeDay": 122,
-    "timeWeek": 66,
+    "timeDay": 188,
+    "timeWeek": 79,
     "timeMonth": 163,
-    "timeYear": 215,
+    "timeYear": 214,
     "dailyMinutesDown": {}
   }
 ]
