@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-25": 220,
+      "2025-08-25": 243,
       "2025-08-24": 1440,
       "2025-08-23": 1440,
       "2025-08-22": 1440,
@@ -191,19 +191,19 @@
     "url": "https://www.baidu.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.baidu.com.ico",
     "slug": "baidu",
-    "status": "down",
+    "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.38%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 2316,
-    "timeDay": 2223,
-    "timeWeek": 2600,
-    "timeMonth": 2392,
-    "timeYear": 2327,
+    "timeDay": 2422,
+    "timeWeek": 2603,
+    "timeMonth": 2399,
+    "timeYear": 2328,
     "dailyMinutesDown": {
-      "2025-08-25": 0
+      "2025-08-25": 23
     }
   },
   {
